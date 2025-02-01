@@ -25,6 +25,7 @@
 •🧑‍💻 Технологии, с которыми я работаю:
 
 <p align="center">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp.svg" alt="csharp" width=55 height=55>
 </p>
 
 ---
