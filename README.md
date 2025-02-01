@@ -25,7 +25,13 @@
 •🧑‍💻 Технологии, с которыми я работаю:
 
 <p align="center">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp.svg" alt="csharp" width=55 height=55>
+  <img src="https://www.svgrepo.com/show/452184/csharp.svg" alt="csharp" width=55 height=55>
+  <img src="https://www.svgrepo.com/show/452183/cpp.svg" alt="c++" width=55 height=55>
+  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width=55 height=55>
+  <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html" width=55 height=55>
+  <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="css" width=55 height=55>
+  <img src="https://www.svgrepo.com/show/281169/pawn.svg" alt="pawno" width=55 height=55>
+  <img src="https://www.svgrepo.com/show/507118/db-copy.svg" alt="db" width=55 height=55>
 </p>
 
 ---
